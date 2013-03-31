@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 abcdasjdsk1`234rtrtr12233333333333333333333333
+=======
+>>>>>>> testing
 abcdasjdsk1`234rtrtr
 ansjdsjdkjd
